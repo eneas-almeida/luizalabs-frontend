@@ -1,6 +1,6 @@
 # LuizaLabs - Frontend
 
-> **Desafio Luizalabs** Frontend.<br />
+> **Luizalabs** Frontend.<br />
 
 <p align="center"><img src="./media/logos/luizalabs-logo.png" width="300"/></p>
 
